@@ -1,11 +1,17 @@
 # ML_COURSE
 
 
-## 1. Основы работы с данными. Библиотека Pandas
+## 1. Основы работы с данными. Библиотека Pandas. EDA
 
-[Основы работы с данными. Библиотека Pandas. Базовый exploratory data analysis. Заполнение пропусков.](https://colab.research.google.com/drive/11m0UdRenaEHiM9BOgqj9cqA1ZxiKLNkh?usp=sharing)  
+Занятие 1:
+[Основы работы с данными. Библиотека Pandas.](https://colab.research.google.com/drive/11m0UdRenaEHiM9BOgqj9cqA1ZxiKLNkh?usp=sharing)  
 [Практика Pandas. Анализ данных Титаника](https://drive.google.com/file/d/17cydulvqGY-uTsBrE38kVBXij2AzcghV/view?usp=sharing)  
-[Практика EDA. Соревнование на Kaggle](https://colab.research.google.com/drive/1wAl_4no0zfge6GEwuGeZLiZtsX8KqkBr?usp=sharing)  
+
+Занятие 2:
+[Базовый exploratory data analysis.](https://colab.research.google.com/drive/1asiouRnCH7J66MyTYKuMAEMI30aqDngF?usp=sharing)
+[Практика EDA, часть 1. Предобработка данных.](https://colab.research.google.com/drive/1C1aIXqkPxy6aiEq2vNPaMwcnbMNEUpgF?usp=sharing)
+[Практика EDA, часть 2. Соревнование на Kaggle](https://colab.research.google.com/drive/1wAl_4no0zfge6GEwuGeZLiZtsX8KqkBr?usp=sharing)
+
 
 ## 2. Библиотеки для визуализации данных в Python.
 
